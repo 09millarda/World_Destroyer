@@ -1,0 +1,7 @@
+C:\Users\aly-m\source\repos\Basics\Mwuhahaha\Mwuhahaha\bin\Debug\Mwuhahaha.exe.config
+C:\Users\aly-m\source\repos\Basics\Mwuhahaha\Mwuhahaha\bin\Debug\Mwuhahaha.exe
+C:\Users\aly-m\source\repos\Basics\Mwuhahaha\Mwuhahaha\bin\Debug\Mwuhahaha.pdb
+C:\Users\aly-m\source\repos\Basics\Mwuhahaha\Mwuhahaha\obj\Debug\Mwuhahaha.csprojResolveAssemblyReference.cache
+C:\Users\aly-m\source\repos\Basics\Mwuhahaha\Mwuhahaha\obj\Debug\Mwuhahaha.csproj.CoreCompileInputs.cache
+C:\Users\aly-m\source\repos\Basics\Mwuhahaha\Mwuhahaha\obj\Debug\Mwuhahaha.exe
+C:\Users\aly-m\source\repos\Basics\Mwuhahaha\Mwuhahaha\obj\Debug\Mwuhahaha.pdb
