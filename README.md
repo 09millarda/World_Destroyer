@@ -2,6 +2,8 @@
 
 This project is not really even a game to be honest.
 
+The .exe file is located in World_Destroyer/Mwuhahaha/bin/Release/. Download that and run it if you want to test it (All files, it doesn't generate the world files).
+
 So, you are are an evil overlord hellbent and destroying planets and making people's lives a general misery...
 It loads up, you choose the size of the world (look at the world files) that contain different numbers of citites, you then choose how many
 monsters you want to spawn on the planet. The monsters are spawned randomly across the planet. If two or more monsters are in the city
